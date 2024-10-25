@@ -1449,8 +1449,8 @@ input{
 }
 
 @media (max-width: 767px) {
-  .max-\[767px\]\:h-\[2400px\] {
-    height: 2400px;
+  .max-\[767px\]\:max-h-\[2400px\] {
+    max-height: 2400px;
   }
 
   .max-\[767px\]\:grid-cols-1 {
